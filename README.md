@@ -18,9 +18,10 @@ const Álvaro = {
   code: [Python beginner],
   tools in business: [SPSS, Excel, Power BI],
   tools in design: [Figma, Illustrator, Photoshop],
-  gamification activities: {
-                        coorganizer: "Viaje Lúdico",
-                        
+  hobbies in progress: {
+                        music: "Blut Aus Nord - TEOAM",
+                        books: "Chiloé-Mitos y Leyendas",
+                        movies: "Mortal Kombat",
                       },
  challenge: "I am doing the #DailyUI challenge focused on improve design skills"
 }
