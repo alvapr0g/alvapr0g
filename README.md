@@ -1,7 +1,7 @@
 
 # Hey! I'm Álvaro Santana! 👋
 
-<p><em>Bachelor of Business Administration at <a href="http://www.uach.cl"  target="_blank">Austral de Chile University</a>
+<p><em>Bachelor of Business Administration at <a href="http://www.uach.cl" target="_blank">Austral de Chile University</a><br />
   </br>Master in Advanced Design at <a href="https://www.uc.cl">Universidad Católica de Chile University</a>
   </br>Free lance Business Consultant & UX Researcher at <a href="https://www.behance.net/alvaprog">Behance Profile</a>
 
