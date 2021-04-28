@@ -26,7 +26,7 @@ const Álvaro = {
 }
 ```
 
-<p><em> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p><em> I love connecting and sharing with different people</b> so if you want to say <b>hi!, hola!,Ciao!, Oi!,Ni hao!,Namaste , I'll be happy to meet you more!</b> :)</em>
 
 ---
 
