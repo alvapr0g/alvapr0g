@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> Hi, I'm Álvaro Santana! 
+<h2> How are you?. I'm Álvaro Santana! 
 
 <p><em>Bachelor of Business Administration at <a href="http://www.uach.cl">Austral de Chile University</a>
   </br>Master in Advanced Design at <a href="https://www.uc.cl">Universidad Católica de Chile University</a>
