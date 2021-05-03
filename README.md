@@ -16,8 +16,8 @@
 const Álvaro = {
   pronouns: "he" | "him",
   code: [Python beginner],
-  tools in business: [SPSS, Excel, Power BI],
-  tools in design: [Figma, Illustrator, Photoshop],
+  tools used in business: [SPSS, Excel, Power BI],
+  tools used in design: [Figma, Illustrator, Photoshop, InDesign],
   hobbies in progress: {
                         music: "Blut Aus Nord - TEOAM",
                         books: "Chiloé-Mitos y Leyendas",
