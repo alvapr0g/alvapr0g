@@ -15,13 +15,14 @@
 ```javascript
 const Álvaro = {
   pronouns: "he" | "him",
-  code: [Python beginner],
+  code: [HTML,CSS & Javascript beginner, learning Python],
   tools used in business: [SPSS, Excel, Power BI],
   tools used in design: [Figma, Illustrator, Photoshop, InDesign],
   hobbies in progress: {
-                        music: "Blut Aus Nord - TEOAM",
+                        music: "Tyler, The Creator - Call Me If You Get Lost",
                         books: "Chiloé-Mitos y Leyendas",
-                        movies: "Mortal Kombat",
+                        movies: "The Godfather",
+                        series: "Loki"
                       },
  challenge: "I am doing the #DailyUI challenge focused on improve design skills"
 }
