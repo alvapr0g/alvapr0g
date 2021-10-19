@@ -3,7 +3,7 @@
 
 <p><em>Bachelor of Business Administration at <a href="http://www.uach.cl" target="_blank">Austral de Chile University</a><br />
   </br>Master in Advanced Design at <a href="https://www.uc.cl">Universidad Católica de Chile University</a>
-  </br>Free lance Business Consultant & UX Researcher at <a href="https://www.behance.net/alvaprog">Behance Profile</a>
+  </br>Product Designer / Business Consultant & UX Researcher at <a href="https://www.behance.net/alvaprog">Behance Profile</a>
 
 [![Twitter: alvaprog](https://img.shields.io/twitter/follow/alvaprog?style=social)](https://twitter.com/alvaprog)
 [![Linkedin: ÁlvaroSantana](https://img.shields.io/badge/-alvaprog-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajsantana/)](https://www.linkedin.com/in/ajsantana/)
