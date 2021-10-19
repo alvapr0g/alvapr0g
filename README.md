@@ -17,12 +17,12 @@ const Álvaro = {
   pronouns: "he" | "him",
   code: [HTML, CSS & Javascript beginner, learning Python],
   tools used in business: [SPSS, Excel, Power BI],
-  tools used in design: [Figma, Illustrator, Photoshop, InDesign],
+  tools used in design: [Figma, Illustrator, Photoshop, InDesign, Jira, Kanban, Miro],
   hobbies in progress: {
-                        music: "Tyler, The Creator - Call Me If You Get Lost",
+                        music: "The Album Leaf - One Day XX",
                         books: "Chiloé-Mitos y Leyendas",
                         movies: "The Godfather",
-                        series: "Loki"
+                        series: "El Juego del Calamar, Sense8"
                       },
  challenge: "I am doing the #DailyUI challenge focused on improve design skills"
 }
