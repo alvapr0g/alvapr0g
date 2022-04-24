@@ -16,15 +16,16 @@
 const Álvaro = {
   pronouns: "he" | "him",
   code: [HTML, CSS & Javascript beginner, learning Python],
-  tools used in business: [SPSS, Excel, Power BI],
-  tools used in design: [Figma, Illustrator, Photoshop, InDesign, Jira, Kanban, Miro],
+  tools used in business: [SPSS, Excel, Power BI, Mixpanel],
+  tools used in design: [Figma, Illustrator, Photoshop, InDesign, Confluence, Miro],
+  tools used in agile frameworks: [Jira, Kanban, SCRUM]
   hobbies in progress: {
                         music: "The Album Leaf - One Day XX",
-                        books: "Chiloé-Mitos y Leyendas",
-                        movies: "The Godfather",
-                        series: "El Juego del Calamar, Sense8"
+                        books: "Existe la suerte Nassim Taleb",
+                        movies: "The Batmnan",
+                        series: "Solar Opossites, Peaky Blinders"
                       },
- challenge: "I am doing the #DailyUI challenge focused on improve design skills"
+ challenge: "I'm trying to learn development so i don't have enough time to learn it XD"
 }
 ```
 
