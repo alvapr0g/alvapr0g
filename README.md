@@ -24,6 +24,8 @@ const Álvaro = {
                         books: "Lost in music, una odisea pop - Giles Smith",
                         movies: "isle of dogs - Wes Anderson",
                         series: "Solar Opossites, Peaky Blinders"
+                        series: "Solar Opossites, Peaky Blinders"
+                        sports: "Capoeira, BJJ"
                       },
  challenge: "I'm trying to learn development so i don't have enough time to learn it XD"
 }
