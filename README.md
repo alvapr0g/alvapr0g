@@ -28,7 +28,7 @@ const Álvaro = {
                         series (anime): "Jujutsu kaizen, Jigokuraku"
                         sports: "Capoeira, BJJ faixa branca"
                       },
- challenge: "I'm trying to learn development so i don't have enough time to learn it XD"
+ challenge: "I'm trying to learn and improve technical development skills (HTML, CSS, JS) but I don't have much time XD."
 }
 ```
 
