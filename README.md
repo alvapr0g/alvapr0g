@@ -20,12 +20,12 @@ const Álvaro = {
   tools used in design: [Figma, Illustrator, Photoshop, InDesign, Confluence, Miro],
   tools used in agile frameworks: [Jira, Kanban, SCRUM]
   hobbies in progress: {
-                        music: "Bones - DemolitionFreestylePt3",
+                        music: "Aphex Twin - Blackbox Life Recorder 21f / In a Room7 F760",
                         books: "Lost in music, una odisea pop - Giles Smith",
-                        movies: "isle of dogs - Wes Anderson",
+                        movies: "Blue Jeans - Jacques Rozier",
                         series: "Solar Opossites, Peaky Blinders"
-                        series: "Solar Opossites, Peaky Blinders"
-                        sports: "Capoeira, BJJ"
+                        series (anime): "Jujutsu kaizen, Jigokuraku"
+                        sports: "Capoeira, BJJ faixa branca"
                       },
  challenge: "I'm trying to learn development so i don't have enough time to learn it XD"
 }
