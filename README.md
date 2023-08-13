@@ -17,8 +17,9 @@ const Álvaro = {
   pronouns: "he" | "him",
   code: [HTML, CSS & Javascript beginner, learning Python],
   tools used in business: [SPSS, Excel, Power BI, Mixpanel],
+  tools used in observability: [New Relic],
   tools used in design: [Figma, Illustrator, Photoshop, InDesign, Confluence, Miro],
-  tools used in agile frameworks: [Jira, Kanban, SCRUM]
+  tools used in agile frameworks: [Jira, Trello, Notion]
   hobbies in progress: {
                         music: "Aphex Twin - Blackbox Life Recorder 21f / In a Room7 F760",
                         books: "Lost in music, una odisea pop - Giles Smith",
